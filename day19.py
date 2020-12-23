@@ -1,3 +1,5 @@
+#https://adventofcode.com/2020/day/19
+
 import re
 
 def generateRegex(rule, rules, depth, maxdepth):

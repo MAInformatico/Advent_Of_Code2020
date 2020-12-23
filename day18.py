@@ -1,3 +1,4 @@
+#https://adventofcode.com/2020/day/18
 
 def analyze(string):
     if "(" in string:
